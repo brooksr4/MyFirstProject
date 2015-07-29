@@ -1,0 +1,53 @@
+body{
+	background:lightgreen;
+	font-family:arial;
+
+
+}
+
+h1 {
+	color: orange;
+	padding:20px;
+}
+h2{
+	color:blue;
+	padding:15px;
+}
+h3{
+	color:#555;
+	padding:15px;
+}
+
+a{
+	background:blue;
+	color:red;
+	padding:01px;
+}
+
+li{
+	color:#999
+	background:violet;
+}
+
+p{
+
+	padding:10px;
+	background:yellow;
+	padding:15px;
+	
+}
+
+ul{
+	background:darkgreen;
+	background-position: center;
+padding:10px 10px 10px 30px;
+}
+
+#nav{
+	background: red
+}
+
+.secondary{
+	color:grey;
+	background:none;
+}
